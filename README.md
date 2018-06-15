@@ -1,4 +1,4 @@
-# Mock Stream
+# Mock Streams
 
 A package that allows you to test other packages that use readable and or writeable
 streams. Provides typings for typescript.
@@ -6,7 +6,7 @@ streams. Provides typings for typescript.
 ## Installation
 
 ```bash
-npm i -D mock-stream
+npm i -D mock-streams # mock-streams NOT mock-stream
 ```
 
 ## Example Usage
