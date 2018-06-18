@@ -17,3 +17,10 @@ import { MockReadableStream, MockWriteableStream } from "mock-stream";
 const input = new MockReadableStream();
 const output = new MockWriteableStream();
 ```
+
+## Building from source
+
+```bash
+npm i
+npm run build
+```
