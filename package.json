@@ -2,14 +2,18 @@
   "name": "mock-streams",
   "version": "1.0.2",
   "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:drew-y/mock-streams.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
     "test": "tsc",
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["streams", "testing", "typescript", "mock"],
+  "author": "Drew Youngwerth",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^6.0.0"
