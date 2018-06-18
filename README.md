@@ -12,7 +12,7 @@ npm i -D mock-streams # mock-streams NOT mock-stream
 ## Example Usage
 
 ```typescript
-import { MockReadableStream, MockWriteableStream } from "mock-stream";
+import { MockReadableStream, MockWriteableStream } from "mock-streams";
 
 const input = new MockReadableStream();
 const output = new MockWriteableStream();
